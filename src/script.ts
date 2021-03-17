@@ -327,3 +327,4 @@ class uglyDog extends Dog{
 let doggo1=new Dog("Rex","Germen Shephert");
 // doggo1.test();
 
+console.log("hello");

@@ -73,3 +73,4 @@ var uglyDog = /** @class */ (function (_super) {
 }(Dog));
 var doggo1 = new Dog("Rex", "Germen Shephert");
 // doggo1.test();
+console.log("hello");
